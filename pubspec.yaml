@@ -1,7 +1,7 @@
 name: flutter_word_plugin
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/anaszia15/flutter_word_plugin
 
 environment:
   sdk: '>=2.18.6 <3.0.0'

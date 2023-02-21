@@ -1,7 +1,6 @@
 name: flutter_word_plugin_example
 description: Demonstrates how to use the flutter_word_plugin plugin.
-version: 0.0.1
-homepage: https://github.com/anaszia15/flutter_word_plugin
+
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
